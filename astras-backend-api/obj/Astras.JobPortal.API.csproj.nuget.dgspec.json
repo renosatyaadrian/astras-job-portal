@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/renosatyaadrian/Docs/astras-job-portal/Astras.JobPortal.API/Astras.JobPortal.API.csproj": {}
+    "/Users/renosatyaadrian/Docs/astras-job-portal/astras-backend-api/Astras.JobPortal.API.csproj": {}
   },
   "projects": {
-    "/Users/renosatyaadrian/Docs/astras-job-portal/Astras.JobPortal.API/Astras.JobPortal.API.csproj": {
+    "/Users/renosatyaadrian/Docs/astras-job-portal/astras-backend-api/Astras.JobPortal.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/renosatyaadrian/Docs/astras-job-portal/Astras.JobPortal.API/Astras.JobPortal.API.csproj",
+        "projectUniqueName": "/Users/renosatyaadrian/Docs/astras-job-portal/astras-backend-api/Astras.JobPortal.API.csproj",
         "projectName": "Astras.JobPortal.API",
-        "projectPath": "/Users/renosatyaadrian/Docs/astras-job-portal/Astras.JobPortal.API/Astras.JobPortal.API.csproj",
+        "projectPath": "/Users/renosatyaadrian/Docs/astras-job-portal/astras-backend-api/Astras.JobPortal.API.csproj",
         "packagesPath": "/Users/renosatyaadrian/.nuget/packages/",
-        "outputPath": "/Users/renosatyaadrian/Docs/astras-job-portal/Astras.JobPortal.API/obj/",
+        "outputPath": "/Users/renosatyaadrian/Docs/astras-job-portal/astras-backend-api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/renosatyaadrian/.nuget/NuGet/NuGet.Config"

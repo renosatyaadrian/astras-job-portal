@@ -1,0 +1,23 @@
+# untuk backend .NET
+astras-backend-api/bin/
+astras-backend-api/obj/
+
+# untuk frontend Node.js
+astras-frontend-portal/.next/
+astras-frontend-portal/node_modules/
+
+# umum
+.env
+.DS_Store
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio cache
+.vscode/
+.vs/
+
+# Build folders
+bin/
+obj/
