@@ -21,3 +21,7 @@ astras-frontend-portal/node_modules/
 # Build folders
 bin/
 obj/
+
+# Ignore sensitive config
+astras-backend-api/appsettings.*.json
+astras-backend-api/.env
