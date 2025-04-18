@@ -1,0 +1,6 @@
+@Astras.JobPortal.API_HostAddress = http://localhost:5193
+
+GET {{Astras.JobPortal.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
