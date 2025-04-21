@@ -25,3 +25,6 @@ obj/
 # Ignore sensitive config
 astras-backend-api/appsettings.*.json
 astras-backend-api/.env
+
+# Omnisharp
+omnisharp.json
