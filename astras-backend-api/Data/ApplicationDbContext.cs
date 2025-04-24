@@ -7,7 +7,9 @@ namespace Astras.JobPortal.API.Data
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) {}
 
+        public DbSet<Application> Applications { get; set; }
+        public DbSet<Company> Companies { get; set; }
         public DbSet<Job> Jobs { get; set; }
-        // nanti tambahkan User, Application, dll
+        public DbSet<User> Users { get; set; }
     }
 }
